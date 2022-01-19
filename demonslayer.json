@@ -11,7 +11,7 @@
       "id": "DemonSlayerServer-1.12.2",
       "name": "DemonSlayerServer (Minecraft 1.12.2)",
       "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100",
       "version": "1.0.0",
       "address": "kdgang.p-e.kr",
       "minecraftVersion": "1.12.2",
