@@ -11,7 +11,7 @@
       "id": "DemonSlayerServer-1.12.2",
       "name": "DemonSlayerServer (Minecraft 1.12.2)",
       "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": "https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100",
+      "icon": null,
       "version": "1.0.0",
       "address": "kdgang.p-e.kr",
       "minecraftVersion": "1.12.2",
@@ -283,6 +283,19 @@
             "size": 9911871,
             "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
             "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
+          "name": "OptiFine 1.12.2_HD_U_G5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2669107,
+            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/forgemods/optionalon/OptiFine_1.12.2_HD_U_G5.jar",
+            "MD5": "54e561e441192cf009803ae95873c5d0"
+          },
+          "required": {
+            "value": false
           }
         }
       ]
