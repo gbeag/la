@@ -10,6 +10,13 @@
     {
       "id": "DemonSlayerServer-1.12.2",
       "name": "DemonSlayerServer (Minecraft 1.12.2)",
+      "type": "file",
+      "artifact": {
+        "size": 47256,
+        "MD5": "59e862dedfb504a563ac932f1574f94d",
+        "path": "resourcepacks/demonslayerresourcepack.zip",
+        "url": "https://cdn.discordapp.com/attachments/848905090668691486/933306340863000606/Demon_Slayer_Resource_Pack.zip"
+      }
       "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100",
       "version": "1.0.0",
