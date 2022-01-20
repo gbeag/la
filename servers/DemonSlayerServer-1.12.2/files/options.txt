@@ -18,7 +18,7 @@ renderClouds:true
 resourcePacks:["Demon_Slayer_Resource_Pack.zip"]
 incompatibleResourcePacks:[]
 lastServer:
-lang:en_us
+lang:ko_KR
 chatVisibility:0
 chatColors:true
 chatLinks:true
