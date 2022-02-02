@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<rss version="2.0">
   <channel>
+    <generator>RSS Builder by B!Soft</generator>
     <title>뉴스</title>
+    <link>gbeag.kro.kr</link>
     <description>뉴스</description>
-    <pubDate>2022/02/02</pubDate>
-    <lastBuildDate>2022/02/02</lastBuildDate>
-    <generator>뉴스</generator>
-    <link>없음</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/gbeag/la/main/index.rss"/>
+    <language>en-us</language>
+    <copyright>gbeag</copyright>
     <item>
-      <title>패치노트</title>
-      <pubDate>https://raw.githubusercontent.com/gbeag/la/main/index.rss</pubDate>
-      <link>https://forum.westeroscraft.com/threads/contest-a-life-in-oldtown.3248/</link>
-      <guid>https://forum.westeroscraft.com/threads/contest-a-life-in-oldtown.3248/</guid>
-      <author>dev@gbaeg.kro.kr | (gbeag)</author>
-      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
-      <dc:creator>gbeag</dc:creator>
-      <content:encoded>패치노트입니다</content:encoded>
-      <slash:comments>1</slash:comments>
+      <title>&lt;item&gt;</title>
+      <pubDate>Wed, 2 Feb 2022 13:26:54 +0900</pubDate>
+      <author>gbeag</author>
+      <comments>안녕하세요.</comments>
+      <description><![CDATA[]]></description>
     </item>
   </channel>
 </rss>
