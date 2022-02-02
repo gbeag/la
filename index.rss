@@ -9,11 +9,12 @@
     <copyright>gbeag</copyright>
     <item>
       <title>&lt;item&gt;</title>
-      <pubDate>Wed, 2 Feb 2022 13:26:54 +0900</pubDate>
+      <pubDate>Wed, 2 Feb 2022 13:34:04 +0900</pubDate>
       <link>gbeag.kro.kr</link>
       <author>gbeag</author>
-      <comments>test</comments>
-      <description><![CDATA[테스트]]></description>
+      <comments>comments</comments>
+      <category>category</category>
+      <description><![CDATA[desciption]]></description>
     </item>
   </channel>
 </rss>
