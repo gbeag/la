@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>News</title>
+    <description>Updates and Announcements</description>
+    <pubDate>Wed, 02 Feb 2022 04:05:06 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Feb 2022 04:05:06 +0000</lastBuildDate>
+    <generator>WesterosCraft Forums</generator>
+    <link>https://forum.westeroscraft.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://forum.westeroscraft.com/forum/news.2/index.rss"/>
+    <item>
+      <title>Contest - A life in Oldtown</title>
+      <pubDate>Wed, 02 Feb 2022 02:09:21 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/contest-a-life-in-oldtown.3248/</link>
+      <guid>https://forum.westeroscraft.com/threads/contest-a-life-in-oldtown.3248/</guid>
+      <author>invalid@example.com (EStoop)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>EStoop</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><b>Contest </b>| <i>A Life in Oldtown</i><br />
+Oldtown is the second largest city in Westeros, a city renowned for its affinity with trade and craftsmanship. Behind the neat facade of rich merchants, nobles and clergy lies the true backbone of the city; dockhands, craftsmen and unspecialised workers, the lowest of the lower classes.<br />
+<br />
+This contest will focus on the lives of the lower classes in Oldtown. How they live, where they work and what they do for pleasure. The goal is to make a final push to finish the style for the server build and set the groundworks to open up the first district for building. The warp to the contest grounds is /wrap otcontest.<br />
+<br />
+It’s advised to read the chapters about Plot types, Inspiration, Economy and Architecture of the <a href="https://drive.google.com/file/d/1KSzT0xjpNPmpp4aV-VjTtNStHZR-gq-K/view" target="_blank" class="link link--external" rel="noopener">Oldtown document</a>.<br />
+<br />
+As usual, Guests are allowed to compete as well! Please follow <a href="https://docs.google.com/forms/d/e/1FAIpQLScz7WwUccgZQDiq4SV-NioldxqQbuWRXgEbiXowCXnZWgteAg/viewform" target="_blank" class="link link--external" rel="noopener">this link</a> and leave us your username. Your submission will only count if you have been on our server before under that username. Builders do not need to fill in this form.<br />
+<br />
+Multiple submissions will be allowed, as well as co-ops. However, you can only receive a prize for one submission. Prizes for co-ops will be divided.<br />
+<br />
+<b>Judgement</b><br />
+Winners will be determined by IwanDeLarch, EStoop and the leaders of the active Oldtown teams, who will each award points for creativity, effort and faithfulness to the theme.<br />
+<br />
+<b>Prizes</b><br />
+Bragging rights and a forum flair: Master Architect of Oldtown<br />
+<br />
+<b>Contest period</b><br />
+The contest will start the 1st of Februari (which is today) and end the 1st of April.<br />
+<br />
+<a href="https://drive.google.com/drive/folders/1Hc8HhfJUc9hIFX8pNnM0hX7NDgwtOwM2" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/court_workshop_of_duke_ludwig_i_of_liegnitz_and_brieg_-polish_-_hedwig_and_the_new_convent-_nu-jpg.11992/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/11/11992-db4b9632fb986aad9008ef41f0109a16.jpg"
+		class="bbImage "
+		style=""
+		alt="Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Hedwig_and_the_New_Convent;_Nu...jpg"
+		title="Court_workshop_of_Duke_Ludwig_I_of_Liegnitz_and_Brieg_(Polish_-_Hedwig_and_the_New_Convent;_Nu...jpg"
+		width="145" height="100" loading="lazy" /></a></a></div>]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>
