@@ -299,17 +299,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 1986,
-            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/files/options.txt",
-            "MD5": "92fa7f2f05c15fa36dfa80038b5c3cfb",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "Demon_Slayer_Resource_Pack.zip",
           "name": "Demon_Slayer_Resource_Pack.zip",
           "type": "File",
