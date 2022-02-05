@@ -344,7 +344,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 1986,
+            "size": 49,
             "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/files/options.txt",
             "MD5": "92fa7f2f05c15fa36dfa80038b5c3cfb",
             "path": "options.txt"
