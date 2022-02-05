@@ -11,7 +11,7 @@
       "id": "DemonSlayerServer-1.12.2",
       "name": "DemonSlayerServer (Minecraft 1.12.2)",
       "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
-      "icon": "https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100",
+      "icon": null,
       "version": "1.0.0",
       "address": "kdgang.p-e.kr",
       "minecraftVersion": "1.12.2",
@@ -266,6 +266,20 @@
           ]
         },
         {
+          "id": "net.spellcraftgaming.rpghud.main:rpghud:3.8.1@jar",
+          "name": "RPG-Hud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200491,
+            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/forgemods/optionaloff/[1.12][Forge]+RPG-HUD-3.8.1.jar",
+            "MD5": "325a6b7779ad2851f6c909eebfb5329e"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
@@ -286,6 +300,33 @@
           }
         },
         {
+          "id": "maninthehouse.epicfight.main:epicfight:2.2.7@jar",
+          "name": "Epic Fight Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2380100,
+            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/forgemods/optionaloff/EpicFightMod-1.12.2-2.2.7.jar",
+            "MD5": "649f756f86646559ff35bce03d03b04e"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "creo.mod:koreanchat:1.12-1.9@jar",
+          "name": "Korean Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30763,
+            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/forgemods/optionalon/koreanchat-creo-1.12-1.9.jar",
+            "MD5": "91492de16021a4f7018eb5d523f45fc2"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
@@ -296,6 +337,17 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1986,
+            "url": "https://raw.githubusercontent.com/gbeag/la/main/servers/DemonSlayerServer-1.12.2/files/options.txt",
+            "MD5": "92fa7f2f05c15fa36dfa80038b5c3cfb",
+            "path": "options.txt"
           }
         },
         {
