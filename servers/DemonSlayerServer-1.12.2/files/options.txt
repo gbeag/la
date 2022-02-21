@@ -1,1 +1,0 @@
-resourcePacks:["Demon_Slayer_Resource_Pack.zip"]
