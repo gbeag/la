@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "DemonSlayerServer (Minecraft 1.12.2)",
+    "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+	"icon": "https://cdn.discordapp.com/avatars/872027014352228382/593c9e7b00c53140cc3d65f721023d7d.webp?size=100",
+    "address": "kdgang.p-e.kr",
+    "discord": {
+      "shortId": "933297120860045332",
+      "largeImageText": "demonslayer",
+      "largeImageKey": "demonslayer"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "14.23.5.2859"
+  },
+  "untrackedFiles": []
+}
