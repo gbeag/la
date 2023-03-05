@@ -13,7 +13,7 @@
       "description": "DemonSlayerServer Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": null,
       "version": "1.0.0",
-      "address": "kdgang.r-e.kr:25565",
+      "address": "152.67.200.228:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "933297120860045332",
